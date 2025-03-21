@@ -6,8 +6,11 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "i18next": "^24.2.3",
     "react": "^19.0.0",
-    "react-native": "^0.78.0"
+    "react-i18next": "^15.4.1",
+    "react-native": "^0.78.0",
+    "react-native-vector-icons": "^10.2.0"
   },
   "devDependencies": {
     "@react-native-community/cli": "^18.0.0",
